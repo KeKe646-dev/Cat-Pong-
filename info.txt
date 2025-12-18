@@ -1,0 +1,22 @@
+BEFORE YOU CLICK PLAY:
+I scrapped my music game bc that didnt work now this is my 2rd time restarting this new game but my scenes have not been working and code has been working so im working on 2 new games instad so dont make fun of me i just want to show my concept at least so i dont feel left behind!!! 
+
+
+Update 11/14 
+
+bugs:
+- Kitty player cant bounce the ball back 
+- ball omly comes in direction of the player 
+- ball glitches if hit horizontaly 
+- miss sound glitch when ball is lower than the players racket 
+- character selection mode not added to script
+
+HOW TO PLAY
+
+for player 1 , use your mouse to hit the ball!
+for player 2 , use the <- and -> keys to move kitty and strike back 
+
+
+Pong games are very hard to code...
+THIS IS A DEMO THAT BARLEY WORKS BUT IT WILL BE FIXED
+I just need to show something
